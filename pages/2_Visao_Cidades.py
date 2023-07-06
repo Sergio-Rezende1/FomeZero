@@ -13,7 +13,7 @@ import folium
 from streamlit_folium import folium_static
 import inflection
 
-st.set_page_config( page_title='Fome Zero - Cidades', page_icon='✅', layout='wide')
+st.set_page_config( page_title='Visão Cidades', page_icon='✅', layout='wide')
 
 # Funções
 
