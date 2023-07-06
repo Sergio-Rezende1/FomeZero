@@ -234,7 +234,7 @@ df1 = df1.loc[ linhas_selecionadas, :]
 # Layout no Streamlit
 #++++++++++++++++++++++++++++++++++++++++++
 
-st.header('Visão restaurantes')
+st.header('Visão Restaurantes')
 st.divider()
 st.markdown('#### Melhores restaurantes das principais culinárias')
 radio_01 =st.radio(key = 4, label = 'Classificar por', options = ('Melhor avaliação média', 'Maior numero de restaurantes registrados'), horizontal=True)
