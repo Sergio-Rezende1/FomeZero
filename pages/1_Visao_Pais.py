@@ -13,7 +13,7 @@ import folium
 from streamlit_folium import folium_static
 import inflection
 
-st.set_page_config( page_title='Visão País', page_icon='✅', layout='wide')
+st.set_page_config( page_title='Fome Zero - País', page_icon='✅', layout='wide')
 
 # Funções
 
@@ -184,7 +184,7 @@ df1 = df1.loc[ linhas_selecionadas, :]
 # Layout no Streamlit
 #++++++++++++++++++++++++++++++++++++++++++
 
-st.header('Fome Zero - Visão Paises')
+st.header('Visão Paises')
 tab1, tab2 = st.tabs( ['Gráficos', 'Indicadores'] )
 
 with tab1:
