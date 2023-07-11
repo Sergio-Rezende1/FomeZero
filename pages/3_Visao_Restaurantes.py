@@ -60,8 +60,8 @@ def prep_dataframe (df1):
     # Tirando do DataSet as linhas duolicadas
     df1 = df1.drop_duplicates().copy()
     
-    # Subistituindo o NaN na coluna 'Cuisines' por 'not_specified'
-    df1['Cuisines'].fillna(value='not_specified' ,inplace=True)
+   # Limpando linhas que contenham NaN
+    df1.dropna(axis=0, how = 'any', inplace=True)
     
     # Inserindo a coluna 'country_name' com o nome dos paises
     df1['country_name'] = df1['Country Code'].replace({
