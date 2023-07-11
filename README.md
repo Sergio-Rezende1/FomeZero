@@ -88,19 +88,19 @@ O painel estratégico foi desenvolvido utilizando as métricas que refletem as 5
 
 
 Cada visão é representada pelo seguinte conjunto de métricas:
-1. Visão Geral
+### 1. Visão Geral
 KPIs
 a. Número de restaurantes cadastrados,
 b. Número de países cadastrados,
 c. Número de cidades cadastradas,
 d. Número de avaliações feitas, e 
 e. Número distintos de culinárias cadastradas
-   * - Engloba todos os dados fornecidos 
+	- Engloba todos os dados fornecidos 
 
 Mapa
 a. Mapa com a localização de todos os restaurantes cadastrados
-   * - É possível filtrar os países apresentados no mapa
-      - Os restaurantes são agrupados conforme o zoom aplicado ao mapa.
+	- É possível filtrar os países apresentados no mapa
+	- Os restaurantes são agrupados conforme o zoom aplicado ao mapa.
 
 2. Visão por País
 Esta Visão é dividida em duas partes:
