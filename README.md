@@ -89,30 +89,30 @@ O painel estratégico foi desenvolvido utilizando as métricas que refletem as 5
 
 Cada visão é representada pelo seguinte conjunto de métricas:
 ### 1. Visão Geral
-KPIs
+#### KPIs
 a. Número de restaurantes cadastrados,
 b. Número de países cadastrados,
 c. Número de cidades cadastradas,
 d. Número de avaliações feitas, e 
 e. Número distintos de culinárias cadastradas
-	- Engloba todos os dados fornecidos 
+- Engloba todos os dados fornecidos 
 
-Mapa
+#### Mapa
 a. Mapa com a localização de todos os restaurantes cadastrados
-	- É possível filtrar os países apresentados no mapa
-	- Os restaurantes são agrupados conforme o zoom aplicado ao mapa.
+- É possível filtrar os países apresentados no mapa
+- Os restaurantes são agrupados conforme o zoom aplicado ao mapa.
 
-2. Visão por País
+### 2. Visão por País
 Esta Visão é dividida em duas partes:
-Gráficos
+#### Gráficos
 a. Quantidade de restaurantes cadastrados por país,
 b. Quantidade de cidades registrada por país,
 c. Quantidade de avaliações feitas por país, e
 d. Média no preço do prato para dois por país. 
-* - Além do gráfico é possível consultar a tabela que gerou a informação e alterar seu     ordenamento. 
-   - É possível filtrar os países apresentados nos gráficos
+- Além do gráfico é possível consultar a tabela que gerou a informação e alterar seu     ordenamento. 
+- É possível filtrar os países apresentados nos gráficos
 
-Indicadores
+#### Indicadores
 Nestes indicadores são respondidas as questões colocadas pelo CEO.
 a. Qual o nome do país que possui mais cidades registradas? 
 b. Qual o nome do país que possui mais restaurantes registrados? 
@@ -124,11 +124,11 @@ g. Qual o nome do país que possui a maior quantidade de restaurantes que aceita
 h. Qual o nome do país que possui, na média, a maior nota média registrada? 
 i. Qual o nome do país que possui, na média, a menor nota média registrada? 
 j. Qual a média de preço de um prato para dois por país?
-* - É possível filtrar os países apresentados nos gráficos
+- É possível filtrar os países apresentados nos gráficos
 
 
-3. Visão por Cidades
-Gráficos / Tabelas
+### 3. Visão por Cidades
+#### Gráficos / Tabelas
 Nestes gráficos são respondidas as questões colocadas pelo CEO.
 a. Qual o nome da cidade que possui mais restaurantes registrados? 
 b. Qual o nome da cidade que possui mais restaurantes com nota média acima de 4? 
@@ -138,14 +138,14 @@ e. Qual o nome da cidade que possui a maior quantidade de tipos de culinária di
 f. Qual o nome da cidade que possui a maior quantidade de restaurantes que fazem reservas?
 g. Qual o nome da cidade que possui a maior quantidade de restaurantes que fazem entregas?
 h. Qual o nome da cidade que possui a maior quantidade de restaurantes que aceitam pedidos online?
-*- É possível filtrar os países apresentados nos gráficos
-  - Os gráficos podem se apresentados, com as 10 primeiras cidades ordenadas pelo critério de pesquisa, ou somente por aquelas que atenderam ao critério da pesquisa. As tabelas são apresentadas segundo este último critério.
+- É possível filtrar os países apresentados nos gráficos
+- Os gráficos podem se apresentados, com as 10 primeiras cidades ordenadas pelo critério de pesquisa, ou somente por aquelas que atenderam ao critério da pesquisa. As tabelas são apresentadas segundo este último critério.
 
-4. Visão por Restaurantes
-Cinco melhores culinárias e o seu principal restaurante
+### 4. Visão por Restaurantes
+#### Cinco melhores culinárias e o seu principal restaurante
 Estão disponíveis dois critérios de avaliação para definir a melhor culinária: Pela média das avaliações entre as categorias culinárias, e pelo número de restaurantes cadastrados por categoria culinária.
 
-KPIs
+#### KPIs
 Nestes indicadores são respondidas as questões colocadas pelo CEO.
 a. Qual o nome do restaurante que possui a maior quantidade de avaliações? 
 b. Qual o nome do restaurante com a maior nota média? 
@@ -155,15 +155,15 @@ e. Qual o nome do restaurante de tipo de culinária brasileira, e que é do Bras
 f. Os restaurantes que aceitam pedido online são também, na média, os restaurantes que mais possuem avaliações registradas? 
 g. Os restaurantes que fazem reservas são também, na média, os restaurantes que possuem o maior valor médio de um prato para duas pessoas? 
 h. Os restaurantes do tipo de culinária japonesa dos Estados Unidos da América possuem um valor médio de prato para duas pessoas maior que as churrascarias americanas (BBQ)?
-* - Nesta visão é possível utilizar três filtros:
-      Filtrar por país,
-      Filtrar por culinária
-	Escolher a quantidade de restaurantes que serão exibidos nas tabelas
+	- Nesta visão é possível utilizar três filtros:
+		Filtrar por país,
+      		Filtrar por culinária
+		Escolher a quantidade de restaurantes que serão exibidos nas tabelas
 
 
-5. Visão por Culinária
+### 5. Visão por Culinária
 Foram criados três formulários para responder as questões 1 a 12, feitas pelo CEO, ficando assim possível consultar todas as opções culinárias, preços e avaliações, classificando pela menor ou maior delas.
-*- É possível filtrar os países apresentados nos formulários.
+	- É possível filtrar os países apresentados nos formulários.
 
 
 # 4. Top 3 Insights de dados
